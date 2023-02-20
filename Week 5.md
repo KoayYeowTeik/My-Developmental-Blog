@@ -1,0 +1,2 @@
+## Javascript Basics
+1. This week i learnt about the basics of javascript. Such as datatypes and the usage of let,var and const to declare a variable, the usage of loops and conditional statements all the way until objects.

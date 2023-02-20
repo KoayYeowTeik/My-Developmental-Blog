@@ -1,0 +1,2 @@
+## Common Mistakes Testing and Best Practices
+1. This week there was a recap on the github assignment 2 usage and what we should properly do with branches and the Adobe XD sample test website with simple debugging.
